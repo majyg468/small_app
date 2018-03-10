@@ -1,0 +1,3 @@
+<!--index.wxml-->
+<canvas class="wrapper" canvas-id="firstCanvas" bind:touchstart="touchstart" bind:touchmove="touchmove" bind:touchend="touchend"></canvas>
+
